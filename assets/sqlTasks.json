@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "description": "Adatbázis létrehozása",
+    "adminPage": false
+  },
+  {
+    "id": 3,
+    "description": "Személy tábla módosítása",
+    "adminPage": false
+  },
+  {
+    "id": 4,
+    "description": "Legfeljebb 5000 karakterszámú dokumentumok száma és összbevétel",
+    "adminPage": true
+  },
+  {
+    "id": 5,
+    "description": "Angolról magyarra fordítandó dokumentumok terjedelme és szakterülete",
+    "adminPage": true
+  },
+  {
+    "id": 6,
+    "description": "Legtöbb nyelvre fordító magyar",
+    "adminPage": true
+  }
+]
